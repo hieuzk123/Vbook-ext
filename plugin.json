@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "author": "Sunless",
+        "description": ""
+    },
+    "data": [
+        {
+            "name": "Manhwa404",
+            "author": "Sunless",
+            "path": "https://raw.githubusercontent.com/hieuzk123/Vbook-ext/main/manhwa404/plugin.zip",
+            "version": 1,
+            "source": "https://manhwa404.com/",
+            "icon": "https://raw.githubusercontent.com/hieuzk123/Vbook-ext/main/manhwa404/icon.png",
+            "description": "Truyện manhwa",
+            "type": "comic",
+            "locale": "en_US"
+        }
+    ]
+}
