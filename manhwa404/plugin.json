@@ -1,0 +1,22 @@
+
+{
+  "metadata": {
+    "name": "Manhwa404",
+    "author": "Sunless",
+    "version": 1,
+    "source": "https://manhwa404.com/",
+    "regexp": "^https?:\\/\\/(www\\.)?manhwa404\\.com\\/manga\\/[0-9a-z-]+\\/?$",
+    "description": "Truyện manhwa",
+    "locale": "vi-VN",
+    "tag": "nsfw",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "gen": "gen.js"
+  }
+}
